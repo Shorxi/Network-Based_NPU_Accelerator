@@ -1,0 +1,23 @@
+EN:
+# Contact & Licensing Inquiries  
+## Network‑Based NPU Accelerator
+
+please contact:
+
+**Name:** Emanuel Schaaf  
+**Email:** emanuel.schaaf@outlook.com
+**Location:** Pirmasens, Germany  
+**Role:** Architect 
+
+---
+
+### Purpose of Contact
+This contact channel exists to:
+
+- negotiate fair revenue‑sharing  
+- coordinate responsible use of the technology  
+- support sustainable innovation  
+- enable transparent communication between users and the creator
+
+Thank you for your interest.
+---
